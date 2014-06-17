@@ -5,6 +5,7 @@ gem 'rails', '4.0.4'
 
 gem 'pg'
 gem 'activerecord-import'
+gem 'kaminari'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
